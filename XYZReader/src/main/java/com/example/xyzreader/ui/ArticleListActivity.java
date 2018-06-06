@@ -20,12 +20,14 @@ import android.util.TypedValue;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
 import com.example.xyzreader.data.UpdaterService;
+import com.squareup.picasso.Picasso;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -184,6 +186,7 @@ public class ArticleListActivity extends ActionBarActivity implements
                         + "<br/>" + " by "
                         + mCursor.getString(ArticleLoader.Query.AUTHOR)));
             }
+            Picasso.get().load(mCursor.getString(ArticleLoader.Query.THUMB_URL)).into(holder.imageView);
         }
 
         @Override
@@ -195,11 +198,13 @@ public class ArticleListActivity extends ActionBarActivity implements
     public static class ViewHolder extends RecyclerView.ViewHolder {
         public TextView titleView;
         public TextView subtitleView;
+        public ImageView imageView;
 
         public ViewHolder(View view) {
             super(view);
             titleView = (TextView) view.findViewById(R.id.article_title);
             subtitleView = (TextView) view.findViewById(R.id.article_subtitle);
+            imageView = (ImageView) view.findViewById(R.id.imageView);
         }
     }
 }
