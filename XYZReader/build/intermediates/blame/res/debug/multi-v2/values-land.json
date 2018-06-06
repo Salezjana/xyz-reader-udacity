@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "source": "/Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/res/values-land/macro_layout.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",

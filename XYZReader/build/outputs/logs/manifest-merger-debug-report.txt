@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 MERGED from [com.android.support:support-v13:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9015752f5f8a28eaa1d8523d0ffea7a0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:design:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c437fc137e422f0f922273092c9c98dd/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/85c7eb82761c39912744f406cf93eb86/AndroidManifest.xml:17:1-31:12
@@ -20,38 +20,38 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/mr/.gra
 MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/3846932396d64fb23d213f140d6276be/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/4b6fccada787088aa9e583d7b7e4ba14/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/30c7b2f554fb788919156b0ee54e84db/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 	package
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:2:5-36
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:2:5-36
 	android:versionName
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:6:5-67
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:7:5-81
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:8:5-75
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:8:5-75
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:8:22-72
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:8:22-72
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:9:5-79
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
 MERGED from [com.android.support:support-v13:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9015752f5f8a28eaa1d8523d0ffea7a0/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v13:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9015752f5f8a28eaa1d8523d0ffea7a0/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c437fc137e422f0f922273092c9c98dd/AndroidManifest.xml:29:5-20
@@ -83,73 +83,73 @@ MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/mr/.grad
 MERGED from [com.android.support:support-compat:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/4b6fccada787088aa9e583d7b7e4ba14/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/4b6fccada787088aa9e583d7b7e4ba14/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.xyzreader.ui.ArticleListActivity
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:18:13-51
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:18:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:22:27-74
 activity#com.example.xyzreader.ui.ArticleDetailActivity
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
 	android:parentActivityName
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:28:13-65
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:28:13-65
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:27:13-53
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:27:13-53
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.VIEW
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:31:17-76
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:31:17-76
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:31:27-73
 data
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:17-100
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:32:17-100
 	android:mimeType
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:32:23-97
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:32:23-97
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
 	android:value
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:36:17-56
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:36:17-56
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:35:17-63
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:35:17-63
 service#com.example.xyzreader.data.UpdaterService
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
 	android:exported
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:40:13-37
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:39:18-53
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:39:18-53
 provider#com.example.xyzreader.data.ItemsProvider
-ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
 	android:authorities
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:43:13-56
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:43:13-56
 	android:exported
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:44:13-37
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:42:19-53
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml:42:19-53
 uses-sdk
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
 MERGED from [com.android.support:support-v13:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9015752f5f8a28eaa1d8523d0ffea7a0/AndroidManifest.xml:21:5-23:55
 MERGED from [com.android.support:support-v13:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9015752f5f8a28eaa1d8523d0ffea7a0/AndroidManifest.xml:21:5-23:55
 MERGED from [com.android.support:design:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c437fc137e422f0f922273092c9c98dd/AndroidManifest.xml:21:5-23:62
@@ -184,18 +184,18 @@ MERGED from [com.android.support:support-compat:25.3.0] /Users/mr/.gradle/caches
 MERGED from [com.android.support:support-compat:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/4b6fccada787088aa9e583d7b7e4ba14/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/30c7b2f554fb788919156b0ee54e84db/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/30c7b2f554fb788919156b0ee54e84db/AndroidManifest.xml:20:5-44
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9015752f5f8a28eaa1d8523d0ffea7a0/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		ADDED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:support-v13:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9015752f5f8a28eaa1d8523d0ffea7a0/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:design:25.3.0] /Users/mr/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c437fc137e422f0f922273092c9c98dd/AndroidManifest.xml:25:5-27:34

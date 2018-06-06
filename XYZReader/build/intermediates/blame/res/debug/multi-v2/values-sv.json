@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "outputFile": "/Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
             "map": [
                 {
                     "source": "/Users/mr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/85c7eb82761c39912744f406cf93eb86/res/values-sv/values-sv.xml",

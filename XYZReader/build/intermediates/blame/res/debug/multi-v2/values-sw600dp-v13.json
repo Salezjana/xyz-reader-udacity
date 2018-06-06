@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/mr/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c437fc137e422f0f922273092c9c98dd/res/values-sw600dp-v13/values-sw600dp-v13.xml",
@@ -23,34 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "from": {
-                        "startLines": "7,3,4,6,5,2",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "325,88,143,259,200,36",
-                        "endColumns": "56,54,56,65,58,51",
-                        "endOffsets": "377,138,195,320,254,83"
-                    },
-                    "to": {
-                        "startLines": "18,20,21,22,23,24",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "1170,1280,1335,1392,1458,1517",
-                        "endColumns": "56,54,56,65,58,51",
-                        "endOffsets": "1222,1330,1387,1453,1512,1564"
-                    }
-                },
-                {
-                    "source": "/Users/mr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/85c7eb82761c39912744f406cf93eb86/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
-                    }
-                },
-                {
-                    "source": "/Users/mr/Documents/GitHub/xyz-reader-starter-code/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "source": "/Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "from": {
                         "startLines": "3,2,5,4",
                         "startColumns": "4,4,4,4",
@@ -64,6 +37,33 @@
                         "startOffsets": "1227,1569,1623,1665",
                         "endColumns": "52,53,41,94",
                         "endOffsets": "1275,1618,1660,1755"
+                    }
+                },
+                {
+                    "source": "/Users/mr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/85c7eb82761c39912744f406cf93eb86/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "from": {
+                        "startLines": "7,3,4,6,5,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "325,88,143,259,200,36",
+                        "endColumns": "56,54,56,65,58,51",
+                        "endOffsets": "377,138,195,320,254,83"
+                    },
+                    "to": {
+                        "startLines": "18,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1170,1280,1335,1392,1458,1517",
+                        "endColumns": "56,54,56,65,58,51",
+                        "endOffsets": "1222,1330,1387,1453,1512,1564"
                     }
                 }
             ]
