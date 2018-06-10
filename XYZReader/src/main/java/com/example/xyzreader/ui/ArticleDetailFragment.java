@@ -3,6 +3,7 @@ package com.example.xyzreader.ui;
 import android.annotation.SuppressLint;
 import android.app.Fragment;
 import android.app.LoaderManager;
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.content.Loader;
@@ -132,6 +133,7 @@ public class ArticleDetailFragment extends Fragment implements
                              Bundle savedInstanceState) {
         mRootView = inflater.inflate(R.layout.fragment_article_detail, container, false);
         unbinder = ButterKnife.bind(this, mRootView);
+        showProgressDialog(null,"Loading");
         return mRootView;
     }
 
@@ -252,7 +254,6 @@ public class ArticleDetailFragment extends Fragment implements
                                 + "</font>"));
 
             } else {
-                // If date is before 1902, just show the string
                 articleByline.setText(Html.fromHtml(
                         outputFormat.format(publishedDate) + " by <font color='#ffffff'>"
                                 + mCursor.getString(ArticleLoader.Query.AUTHOR)
@@ -260,7 +261,8 @@ public class ArticleDetailFragment extends Fragment implements
 
             }
             articleBody.setText(Html.fromHtml(mCursor.getString(ArticleLoader.Query.BODY).replaceAll("(\r\n|\n)", "<br />")));
-                    Picasso.get().load(mCursor.getString(ArticleLoader.Query.PHOTO_URL)).into(photo);
+            Picasso.get().load(mCursor.getString(ArticleLoader.Query.PHOTO_URL)).into(photo);
+
         } else {
             mRootView.setVisibility(View.GONE);
         }
@@ -288,12 +290,15 @@ public class ArticleDetailFragment extends Fragment implements
         }
 
         bindViews();
+        hideProgressDialog();
     }
 
     @Override
     public void onLoaderReset(Loader<Cursor> cursorLoader) {
         mCursor = null;
+        hideProgressDialog();
         bindViews();
+
     }
 
     public int getUpButtonFloor() {
@@ -312,4 +317,5 @@ public class ArticleDetailFragment extends Fragment implements
         super.onDestroyView();
         unbinder.unbind();
     }
+
 }

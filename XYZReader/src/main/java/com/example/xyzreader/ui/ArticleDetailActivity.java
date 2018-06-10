@@ -3,6 +3,7 @@ package com.example.xyzreader.ui;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.LoaderManager;
+import android.app.ProgressDialog;
 import android.content.Loader;
 import android.database.Cursor;
 import android.graphics.drawable.ColorDrawable;
@@ -60,6 +61,7 @@ public class ArticleDetailActivity extends AppCompatActivity
         ButterKnife.bind(this);
 
         getLoaderManager().initLoader(0, null, this);
+
 
         mPagerAdapter = new MyPagerAdapter(getFragmentManager());
         pager.setAdapter(mPagerAdapter);
@@ -138,6 +140,7 @@ public class ArticleDetailActivity extends AppCompatActivity
             }
             mStartId = 0;
         }
+
     }
 
     @Override
@@ -184,4 +187,6 @@ public class ArticleDetailActivity extends AppCompatActivity
             return (mCursor != null) ? mCursor.getCount() : 0;
         }
     }
+
+
 }
