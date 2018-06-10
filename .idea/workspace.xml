@@ -10,166 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4a405de-a68d-478c-b67e-67c434516a52" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/compat/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/coreui/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/coreutils/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$anim.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$animator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/design/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/exifinterface/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/fragment/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/graphics/drawable/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/mediacompat/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/transition/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/transition/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v13/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v4/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/cardview/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/palette/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/butterknife/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$anim.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$animator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$fraction.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$menu.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$mipmap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/XyzReader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$1.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$1.class" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$2.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$2.class" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$3.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$3.class" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.class" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity.class" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity.class" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailActivity_ViewBinding.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleDetailFragment_ViewBinding.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$Adapter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ArticleListActivity_ViewBinding.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DividerItemDecoration.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DrawInsetsFrameLayout$OnInsetsCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DrawInsetsFrameLayout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/DynamicHeightNetworkImageView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ImageLoaderHelper$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ImageLoaderHelper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/MaxWidthLinearLayout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ObservableScrollView$Callbacks.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/example/xyzreader/ui/ObservableScrollView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$anim.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$anim.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/facebook/stetho/okhttp3/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/classes/debug/com/squareup/picasso/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/JUTF3nTyOuiigvBB8tvsD7Plabc=" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/JUTF3nTyOuiigvBB8tvsD7Plabc=" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout_fragment_article_detail.xml.flat" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/layout_fragment_article_detail.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values_values.arsc.flat" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$1.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$1.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$2.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$2.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$3.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$3.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity$MyPagerAdapter.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailActivity.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment$1.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment$1.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment$2.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment$2.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment$3.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment$3.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexBuilder/debug/71/com/example/xyzreader/ui/ArticleDetailFragment.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexMerger/debug/33/classes.dex" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/transforms/dexMerger/debug/33/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" />
       <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -223,31 +64,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArticleDetailActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#5702#5703#0" expanded="true" />
-                <element signature="e#5735#5736#0" expanded="true" />
-                <element signature="e#6427#6428#0" expanded="true" />
-                <element signature="e#6500#6501#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ArticleDetailFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="766">
-              <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+            <state relative-caret-position="237">
+              <caret line="134" column="53" lean-forward="false" selection-start-line="134" selection-start-column="53" selection-end-line="134" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3705#3790#0" expanded="true" />
                 <element signature="e#3883#3884#0" expanded="true" />
                 <element signature="e#3943#3944#0" expanded="true" />
+                <element signature="e#4992#5179#0" expanded="true" />
+                <element signature="e#5178#5179#0" expanded="true" />
+                <element signature="e#5216#6242#0" expanded="true" />
+                <element signature="e#6241#6242#0" expanded="true" />
+                <element signature="e#6373#6800#0" expanded="true" />
+                <element signature="e#6741#6773#0" expanded="true" />
+                <element signature="e#6799#6800#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -263,6 +96,18 @@
               <caret line="51" column="69" lean-forward="false" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="69" />
               <folding>
                 <element signature="e#2350#2387#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleListActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+              <folding>
+                <element signature="class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -2580,6 +2425,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1013" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2589,7 +2435,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32135075" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32135075" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2704,14 +2550,7 @@
         <state relative-caret-position="1065">
           <caret line="106" column="24" lean-forward="false" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
           <folding>
-            <element signature="e#2107#2469#0" expanded="false" />
-            <element signature="e#2468#2469#0" expanded="false" />
-            <element signature="e#3153#3312#0" expanded="false" />
-            <element signature="e#3311#3312#0" expanded="false" />
-            <element signature="e#4238#4292#0" expanded="false" />
             <element signature="class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="e#5864#6164#0" expanded="false" />
-            <element signature="e#6163#6164#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2982,23 +2821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-          <folding>
-            <element signature="e#2107#2469#0" expanded="false" />
-            <element signature="e#2468#2469#0" expanded="false" />
-            <element signature="e#3153#3312#0" expanded="false" />
-            <element signature="e#3311#3312#0" expanded="false" />
-            <element signature="e#4238#4292#0" expanded="false" />
-            <element signature="class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="e#5864#6164#0" expanded="false" />
-            <element signature="e#6163#6164#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -3092,14 +2914,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+        <state relative-caret-position="237">
+          <caret line="134" column="53" lean-forward="false" selection-start-line="134" selection-start-column="53" selection-end-line="134" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3705#3790#0" expanded="true" />
             <element signature="e#3883#3884#0" expanded="true" />
             <element signature="e#3943#3944#0" expanded="true" />
+            <element signature="e#4992#5179#0" expanded="true" />
+            <element signature="e#5178#5179#0" expanded="true" />
+            <element signature="e#5216#6242#0" expanded="true" />
+            <element signature="e#6241#6242#0" expanded="true" />
+            <element signature="e#6373#6800#0" expanded="true" />
+            <element signature="e#6741#6773#0" expanded="true" />
+            <element signature="e#6799#6800#0" expanded="true" />
           </folding>
         </state>
       </provider>

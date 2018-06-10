@@ -133,7 +133,6 @@ public class ArticleDetailFragment extends Fragment implements
                              Bundle savedInstanceState) {
         mRootView = inflater.inflate(R.layout.fragment_article_detail, container, false);
         unbinder = ButterKnife.bind(this, mRootView);
-        showProgressDialog(null,"Loading");
         return mRootView;
     }
 
@@ -290,13 +289,13 @@ public class ArticleDetailFragment extends Fragment implements
         }
 
         bindViews();
-        hideProgressDialog();
+
     }
 
     @Override
     public void onLoaderReset(Loader<Cursor> cursorLoader) {
         mCursor = null;
-        hideProgressDialog();
+
         bindViews();
 
     }
