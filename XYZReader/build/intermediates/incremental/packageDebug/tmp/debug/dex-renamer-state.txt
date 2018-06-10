@@ -1,4 +1,4 @@
-#Sun Jun 10 19:23:01 CEST 2018
+#Sun Jun 10 19:57:55 CEST 2018
 base.0=/Users/mr/Documents/GitHub/xyz-reader-udacity/XYZReader/build/intermediates/transforms/dexMerger/debug/33
 path.0=classes.dex
 renamed.0=classes.dex

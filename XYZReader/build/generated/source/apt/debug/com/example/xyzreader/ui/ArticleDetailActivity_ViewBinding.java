@@ -3,8 +3,10 @@ package com.example.xyzreader.ui;
 
 import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
+import android.support.v4.view.ViewPager;
 import android.view.View;
-import android.widget.ImageView;
+import android.widget.FrameLayout;
+import android.widget.ImageButton;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
 import com.example.xyzreader.R;
@@ -23,7 +25,9 @@ public class ArticleDetailActivity_ViewBinding implements Unbinder {
   public ArticleDetailActivity_ViewBinding(ArticleDetailActivity target, View source) {
     this.target = target;
 
-    target.image = Utils.findRequiredViewAsType(source, R.id.image, "field 'image'", ImageView.class);
+    target.pager = Utils.findRequiredViewAsType(source, R.id.pager, "field 'pager'", ViewPager.class);
+    target.actionUp = Utils.findRequiredViewAsType(source, R.id.action_up, "field 'actionUp'", ImageButton.class);
+    target.upContainer = Utils.findRequiredViewAsType(source, R.id.up_container, "field 'upContainer'", FrameLayout.class);
   }
 
   @Override
@@ -33,6 +37,8 @@ public class ArticleDetailActivity_ViewBinding implements Unbinder {
     if (target == null) throw new IllegalStateException("Bindings already cleared.");
     this.target = null;
 
-    target.image = null;
+    target.pager = null;
+    target.actionUp = null;
+    target.upContainer = null;
   }
 }
