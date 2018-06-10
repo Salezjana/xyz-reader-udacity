@@ -1,53 +1,61 @@
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical">
+    android:id="@+id/coordinatorLayout"
+    android:layout_height="match_parent">
 
-    <FrameLayout
-        android:id="@+id/toolbar_container"
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="?colorPrimary"
-        android:elevation="8dp">
+        android:elevation="4dp"
+        android:layout_height="?android:attr/actionBarSize">
 
-        <android.support.v7.widget.Toolbar
-            android:id="@+id/toolbar"
+        <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
-            android:layout_height="?actionBarSize"
-            android:layout_gravity="bottom"
-            android:layout_marginLeft="@dimen/list_toolbar_side_margin"
-            android:layout_marginRight="@dimen/list_toolbar_side_margin"
-            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+            android:layout_height="match_parent"
+            app:contentScrim="@color/theme_primary_dark"
+            android:elevation="4dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:contentDescription="@string/app_name"
-                android:src="@drawable/logo" />
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?actionBarSize"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="@dimen/list_toolbar_side_margin"
+                android:elevation="4dp"
+                android:layout_marginRight="@dimen/list_toolbar_side_margin"
+                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
-        </android.support.v7.widget.Toolbar>
-    </FrameLayout>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/logo" />
+
+            </android.support.v7.widget.Toolbar>
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
 
     <android.support.v4.widget.SwipeRefreshLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/swipe_refresh_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:paddingTop="?actionBarSize">
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recycler_view"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:clipToPadding="false"
-            android:paddingBottom="@dimen/cardview_compat_inset_shadow"
+            android:paddingEnd="@dimen/cardview_compat_inset_shadow"
             android:paddingLeft="@dimen/cardview_compat_inset_shadow"
             android:paddingRight="@dimen/cardview_compat_inset_shadow"
+            android:paddingStart="@dimen/cardview_compat_inset_shadow"
             android:paddingTop="@dimen/cardview_compat_inset_shadow"
-            android:scrollbarStyle="outsideOverlay"
-            tools:ignore="PrivateResource" />
+            android:paddingBottom="@dimen/cardview_compat_inset_shadow"
+            android:scrollbarStyle="outsideOverlay" />
     </android.support.v4.widget.SwipeRefreshLayout>
+
 
 </android.support.design.widget.CoordinatorLayout>

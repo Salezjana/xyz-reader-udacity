@@ -3,8 +3,10 @@ package com.example.xyzreader.ui;
 import android.annotation.SuppressLint;
 import android.app.Fragment;
 import android.app.LoaderManager;
+import android.content.Context;
 import android.content.Intent;
 import android.content.Loader;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.Color;
@@ -14,6 +16,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.ShareCompat;
+import android.support.v4.widget.NestedScrollView;
 import android.support.v7.graphics.Palette;
 import android.text.Html;
 import android.text.format.DateUtils;
@@ -25,6 +28,7 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.ScrollView;
 import android.widget.TextView;
 
 import com.android.volley.VolleyError;
@@ -148,11 +152,24 @@ public class ArticleDetailFragment extends Fragment implements
             @Override
             public void onScrollChanged() {
                 mScrollY = scrollview.getScrollY();
+                SharedPreferences sharedPreferences = getActivity().getSharedPreferences("SCROLL", Context.MODE_PRIVATE);
+                int previousScrollY = sharedPreferences.getInt("SCROLL_INT",100000);
                 getActivityCast().onUpButtonFloorChanged(mItemId, ArticleDetailFragment.this);
                 photoContainer.setTranslationY((int) (mScrollY - mScrollY / PARALLAX_FACTOR));
                 updateStatusBar();
+
+                if (scrollview.getScrollY() > previousScrollY && shareFab.getVisibility() == View.VISIBLE) {
+                    shareFab.hide();
+                } else if (scrollview.getScrollY() < previousScrollY && shareFab.getVisibility() != View.VISIBLE) {
+                    shareFab.show();
+                }
+                sharedPreferences.edit().putInt("SCROLL_INT",scrollview.getScrollY()).apply();
+
             }
         });
+
+
+
 
 
         mStatusBarColorDrawable = new ColorDrawable(0);
